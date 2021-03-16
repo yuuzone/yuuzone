@@ -2,7 +2,7 @@
 
 <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuzone&layout=compact" alt="langs" /> 
 
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=yuuzone&show_icons=true" /> 
+<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=yuuzone&show_icons=true" alt="info" /> 
 
 
 <!--
